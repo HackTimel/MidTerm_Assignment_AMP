@@ -3,5 +3,5 @@
 
 To run the programm, just do :
 
-~~~$ python3 main.py FilePath~~~
+~~~ python3 main.py FilePath ~~~
 
